@@ -1,55 +1,55 @@
 import { CiLaptop } from "react-icons/ci";
 import { CiMobile1 } from "react-icons/ci";
-import { MdWorkspacesOutline } from "react-icons/md";
+import { MdWorkspacesOutline, MdOutlineWebAsset } from "react-icons/md";
 export const projectExperience = [
   {
     name: "Website Design",
-    projects: 76,
+    projects: 36,
     icon: CiLaptop,
     bg: "#36bfb9",
   },
   {
-    name: "Mobile App Design",
-    projects: 63,
-    icon: CiMobile1,
-    bg: "#9e42bd",
+    name: "React Web Apps",
+    projects: 23,
+    icon: MdOutlineWebAsset,
+    bg: "#ed58e5",
   },
   {
     name: "Brand Identity",
-    projects: 47,
+    projects: 17,
     icon: MdWorkspacesOutline,
-    bg: "#c25421",
+    bg: "#edb61f",
   },
 ];
 
 export const WhatDoIHelp = [
-  "I will help you with finging a solution and solve your problem, We use process design to create digital products. Besides that also help their business.",
+  "As a React Web Developer and MERN Stack Developer, I assist in problem-solving and utilize process design to create digital products, contributing to business success.",
 
   
-  "We use process design to create digital products. Besides that also help their business",
+  "Utilizing process design, we craft digital products and contribute to enhancing businesses.",
 ];
 
 export const workExp = [
   {
-    place: "Self-Employed, Brisbane",
-    tenure: "Aug 2014 - Sep 2016",
-    role: "Visual Designer",
+    place: "Self-Employed, Karachi",
+    tenure: "Aug 2022 - March 2023",
+    role: "Front-End Developer",
     detail:
-      "A visual desginer dsesign for a variety of platoforms, may include internet and internet sites, games, movies, kioasks and wearbies. In short, they create the concepts",
+      "A Front-end web developer designs for diverse platforms, including the internet, games, movies, kiosks, and wearables. In essence, they bring conceptual designs to life in the digital realm",
   },
   {
-    place: "New Man Services",
-    tenure: "Aug 2014 - Sep 2016",
-    role: "UI/UX Designer",
+    place: "NETSOL Technologies",
+    tenure: "April 2023 - Sep 2023",
+    role: "React App Developer",
     detail:
-      "A visual desginer dsesign for a variety of platoforms, may include internet and internet sites, games, movies, kioasks and wearbies. In short, they create the concepts",
+      "As a React Developer, crafting for diverse platforms like the internet, games, movies, and wearables, they specialize in translating concepts into dynamic applications",
   },
   {
-    place: "Global Solution",
-    tenure: "Aug 2014 - Sep 2016",
-    role: "Sr. Product Designer",
+    place: "Arbisoft",
+    tenure: "October 2023 - Present",
+    role: "MERN Stack Developer",
     detail:
-      "A visual desginer dsesign for a variety of platoforms, may include internet and internet sites, games, movies, kioasks and wearbies. In short, they create the concepts",
+      "In the realm of the MERN stack, this developer crafts for diverse platforms—internet, games, movies, and wearables—skillfully turning concepts into dynamic applications",
   },
 ];
 

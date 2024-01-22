@@ -24,9 +24,9 @@ const Hero = () => {
                 </motion.span>
                     <motion.span className='secondaryText'
                     variants={fadeIn("left", "tween", 0.4, 1)}>
-                        I design beautiful simple 
+                        I Design and Develop Beautiful,
                         <br />
-                        things, And I love what I do
+                        Stunning and Functional Websites
                     </motion.span>
             </div>
 
@@ -50,7 +50,7 @@ const Hero = () => {
                 variants={fadeIn("right", "tween", 0.3, 1)}
                 className={css.experience}>
                     
-                    <div className='primaryText'>10</div>
+                    <div className='primaryText'>04</div>
                     <div className='secondaryText'>
                         <div>Years</div>
                         <div>Experience</div>
